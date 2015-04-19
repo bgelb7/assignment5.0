@@ -30,10 +30,12 @@
        
        <div>
        <ul id="footercontact">
-        <li class= "contactus"><a href="form2.php">
-                        <strong> Contact Us</strong></a></li>
-                        <li class="directions"><a href="http://www.mapquest.com/maps?cat=Pho%20Hong&address=325%20N%20Winooski%20Ave&city=Burlington&state=VT&zipcode=05401">
-                                <strong> Directions</strong></a></li>
+           <li><strong> Pho Hong</strong></li>
+               
+                        <li><strong>325 N. Winooski Ave.</strong></li>
+                         <li><strong>Burlington, VT 05401</strong></li>
+                           <li><strong>802-865-8031</strong></li>
+                     
                                 
         </ul> 
        </div>
